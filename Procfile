@@ -1,1 +1,1 @@
-worker: python3 -m botpower
+worker: python main.py
