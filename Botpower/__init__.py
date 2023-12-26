@@ -7,7 +7,7 @@ def start(update, context):
     context.bot.send_message(chat_id=update.effective_chat.id, text=welcome_message)
 
 # Set up the updater and dispatcher
-updater = Updater(token='YOUR_TELEGRAM_BOT_TOKEN', use_context=True)
+updater = Updater(token='6789771210:AAGBLOHOY7NAY19N20rJdrSoUhHu_5dLpTY', use_context=True)
 dispatcher = updater.dispatcher
 
 # Add command handler for the /start command
