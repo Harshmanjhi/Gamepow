@@ -1,1 +1,1 @@
-worker: python3 -m ddwpower
+worker: python3 -m main
